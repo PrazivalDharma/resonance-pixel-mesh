@@ -19,3 +19,9 @@ Invisible Data: Without the refractive laser key (for 5D storage), the data is m
 
 ⚖️ The Human Finality Pulse
 This repo contains the Consensus Protocol. Major shifts in the mesh require a human "Hands on the Wheel" pulse, allowing for deliberations that last days or years to ensure the 100% are heard.
+
+📜 The Resonance Covenant(RPM)
+This repository is licensed under the AGPL-3.0 to ensure that the "Silk" of human connectivity remains transparent and free.
+Public Audit: Any entity hosting a Resonance Mesh must provide the source code of their implementation to its users.
+Identity Sovereignty: No modified version of this code may be used to "strip" a user's Resonance Pixel or Genesis JPEG without a verified Human Finality Pulse.
+The Glow: Connectivity is a right, not a product.
