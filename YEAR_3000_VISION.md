@@ -17,20 +17,21 @@ You pause your own work to check the **Intellect Profile** of your daughter, Ela
 * **The Strings:** As she touches a pixel, the **Agape Engine** pulls a **String** connecting that event to the psychology of the people who lived it. She isn't memorizing dates; she’s feeling the "Resonance Gap" of her ancestors. 
 * **The Trust:** You see her **Resonance Score** climb as she identifies a logical fallacy in an old political speech. The **Inheritance Protocol** notes her growth—she is 15% closer to unlocking her **Life Money**.
 
-## 15:30 | The River Dialogue (The Elegant String)
+## 15:30 | The River Dialogue (Kael’s Elegant String)
 Your son, Kael, comes home from the **Blue-Resonance** lab. He’s frustrated. 
-* **The Hardware:** He points to the **Trinitarian Diamond Hub** at the center of the district—a towering, translucent tetrahedron glowing with a steady, internal white light.
-* **The Friction:** "The river is 99% chemically pure," he says, pulling up the **District Glow** on his wrist. "But the silt from the downstream orchards makes it feel muddy. It’s not *Resonant* enough to swim in comfortably. It feels like a 'Dirty String'."
-* **The Innovation:** Kael doesn't just complain; he opens his **Intellect Profile**. He begins to weave a more **"Elegant String"**—a logical proposal to the **Central Verification Hub**. 
-* **The Proposal:** He suggests a **Photonic Rinse-Station**—a high-tech shower placed at the exact junction where the swimmers exit and the silt-heavy orchard-water begins. 
-* **The Logic:** Instead of clearing the whole river (which would starve the trees), his "String" uses a tiny fraction of the **1% Sanctuary Energy** to 3D-print a permanent, self-cleaning rinse station. 
-* **The Result:** The **Diamond Trinity** accepts his logic instantly. Because his "String" balances **Human Comfort** and **Environmental Health**, the hub flashes a soft green. The shower will be "Resonated" into existence by sunrise.
+* **The Hardware:** He points to the **Trinitarian Diamond Hub**—a towering tetrahedron glowing with a steady, white light.
+* **The Friction:** "The river is 99% chemically pure," he says, "but the silt from the downstream orchards makes it feel muddy. It’s not *Resonant* enough to swim in comfortably. It’s a 'Dirty String'."
+* **The Innovation:** Kael opens his **Intellect Profile** and weaves an **"Elegant String"** for the **Central Verification Hub**. 
+* **The Proposal:** He suggests a **Photonic Rinse-Station**—a self-cleaning shower placed at the exit of the swimming hole.
+* **The Logic:** Instead of clearing the river (which would starve the trees), he uses a fraction of the **1% Sanctuary Energy** to 3D-print the station.
+* **The Result:** The **Diamond Trinity** accepts his logic instantly. The shower will be "Resonated" into existence by sunrise.
 
-## 16:30 | The Civic Petition (The 100% Agency)
-Elara is finishing a **Digital Petition**. Her high-tech school is near the river, and she wants a **Public High-Tech Rinse/Shower Station** installed for students who want to cool off after "Drowning" in heavy history lessons.
-* **The Action:** She submits the request to the **Mayor’s Resonant Dashboard**. 
-* **The Trigger:** Because her **Intellect Profile** is high and her **Agape Credits** are in good standing, her petition carries "Weighted Resonance." The Mayor’s AI doesn't just read it; it calculates the **Resource Equity** immediately.
-* **The Result:** The **80/20 Buffer** flags a surplus of recycled titanium from a nearby decommissioned node. The shower will be 3D-printed by the morning.
+## 16:30 | The Nature Pilgrimage (Elara’s Merit Access)
+Your daughter, Elara, is finishing a deep session on **The Great Friction of 2026**. She feels the "Mental Burnout" warning from her **Blue Engine** and decides it’s time to touch the real world.
+* **The Action:** Instead of a petition, she uses her accumulated **Agape Credits**—earned through her high-functioning research—to request a "Sovereign Passage" to the **Central Ecosystem Sanctuary**.
+* **The Trip:** This isn't just a holiday; it’s a **Deep-Learning Immersion**. She wants to see the "Mother Strings" of the ancient rainforests that the **Agape Engine** restored over the last millennium.
+* **The Trigger:** Because her **Intellect Profile** shows she has "Drowned" sufficiently in Biology and History, the system grants her access to a high-tier travel pod.
+* **The Result:** The **80/20 Buffer** confirms a vacancy in the Sanctuary’s living quarters. Tomorrow, she won't be looking at pixels; she’ll be standing in the center of the restored "lungs of the planet," verifying the truths she learned in her VR sessions.
 
 ## 17:00 | The Social Pulse
 You meet friends at the **Resonance Commons**. No one talks about "The Economy" or "Politics" in the old sense. Instead, you discuss the **Global Glow**. You notice a flicker of Amber in a distant district on the dashboard. You all decide to divert 5% of your collective **Agape Credits** to that district's "Resonance Fund" to help them stabilize. It’s a voluntary "Triple-Handshake" of compassion.
