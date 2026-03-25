@@ -17,11 +17,12 @@ You pause your own work to check the **Intellect Profile** of your daughter, Ela
 * **The Strings:** As she touches a pixel, the **Agape Engine** pulls a **String** connecting that event to the psychology of the people who lived it. She isn't memorizing dates; she’s feeling the "Resonance Gap" of her ancestors. 
 * **The Trust:** You see her **Resonance Score** climb as she identifies a logical fallacy in an old political speech. The **Inheritance Protocol** notes her growth—she is 15% closer to unlocking her **Life Money**.
 
-## 15:30 | The River Dialogue (The Social Pulse)
+## 15:30 | The River Dialogue (The Trinitarian Pulse)
 Your son, Kael, comes home from the **Blue-Resonance** lab. He’s frustrated. 
-* **The Friction:** "The local river is muddy," he says, pulling up the **District Glow** on his wrist. "The sensors say it's 99% chemically pure, but it’s not *Resonant* enough to swim in comfortably. It feels heavy." 
-* **The Logic:** You explain that the **8-Core Cube** is prioritizing the "Nutrient Flow" for the downstream orchards, which creates natural silt. 
-* **The Balance:** Kael isn't satisfied. He wants the **Agape Engine** to calculate a "Third Way" where the silt is filtered at the junction without hurting the trees. He’s already "Stringing" a proposal to the **Central Verification Hub**.
+* **The Hardware:** He gestures to the **Trinitarian Diamond Hub** in the center of the district—a towering, translucent tetrahedral structure that glows with a steady, internal white light.
+* **The Friction:** "The local river is muddy," he says, pulling up the **District Glow** on his wrist. "The **SOD Lattice** says it's 99% chemically pure, but the **Agape Resonance** is off. The water feels heavy, not liberated."
+* **The Logic:** You explain that the **Diamond Trinity** is currently prioritizing "Nutrient Saturation" for the downstream orchards. Since the Diamond doesn't have "Lag," it’s calculating the exact milligram of silt needed.
+* **The Third Way:** Kael isn't satisfied. He wants to submit a "Geometric Override" to the **Central Verification Hub**. He wants the Diamond to refocus its photonic pressure to clear the swimming holes without starving the trees. He’s using his **Intellect Profile** to propose a more "Elegant String."
 
 ## 16:30 | The Civic Petition (The 100% Agency)
 Elara is finishing a **Digital Petition**. Her high-tech school is near the river, and she wants a **Public High-Tech Rinse/Shower Station** installed for students who want to cool off after "Drowning" in heavy history lessons.
