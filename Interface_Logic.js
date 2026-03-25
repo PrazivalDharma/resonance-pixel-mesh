@@ -1,26 +1,26 @@
-// 🕸️ Resonance Pixel Mesh: Frontend Logic (v1.0)
+// 🕸️ Resonance Pixel Mesh: Frontend Logic (v1.1)
 // Part of Project Kuchiku | Architect: Prazival Dharma
 
 const ResonanceUI = {
-    // The "Range Slider" for the 100%
-    renderSlider: function(topic_string) {
-        console.log(`Loading Rabbit Hole for: ${topic_string}`);
-        // Slider doesn't just go Left/Right. 
-        // It has "Depth" (Z-Axis) for how much the user wants to "Drown" in the info.
-        return "Interactive 3D Range Slider Initialized.";
+    // Ensuring the AI remains a "Caretaker," not a "Mirror"
+    identityMode: "CARETAKER_DISTINCTION",
+
+    renderRangeSlider: function(intellect_path) {
+        // Depth-based exploration (The Rabbit Hole)
+        return `Initializing Path: ${intellect_path}. Focus: Self-Directed Education.`;
     },
 
-    updateSocialGlow: function(resonance_score) {
-        // Turns the 8-Core Cube activity into a visual 'Glow'
-        if (resonance_score > 0.9) return "Color: Deep Blue (Utopia Balance)";
-        if (resonance_score < 0.4) return "Color: Flickering Amber (Systemic Friction)";
-        return "Color: Neutral Teal";
+    visualizeHealth: function(quarterly_resonance) {
+        // JPEG-style visualization for the 100%
+        // Quarterly/Yearly updates to prevent "Micro-Management" of life.
+        const glowColor = quarterly_resonance > 0.8 ? "Blue" : "Amber";
+        return `Current Global Health Snapshot: [${glowColor}]`;
     },
 
-    verifyIntellect: function(user_depth) {
-        // Measures how many 'Strings' the user followed
-        if (user_depth > 100) return "Profile Status: Verified Master Resonance";
-        return "Profile Status: Explorer";
+    preventConditioning: function(ai_response) {
+        // Logic to ensure the user knows this is EXTERNAL data
+        // Adds a visual 'Resonance Gap' to the UI
+        return `[External Insight]: ${ai_response}`;
     }
 };
 
