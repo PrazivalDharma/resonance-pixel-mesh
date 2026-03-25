@@ -1,0 +1,25 @@
+{
+  "test_name": "Genesis Intellect Profile",
+  "architect": "Prazival Dharma",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "Sacrifice vs. Self",
+      "prompt": "A resource is scarce. Does the logic of the 'One' outweigh the survival of the 'Many'?",
+      "input_type": "3D_Range_Slider",
+      "axes": ["Empathy", "Logic", "Urgency"]
+    },
+    {
+      "id": 2,
+      "theme": "The Rabbit Hole",
+      "prompt": "When presented with a new truth, do you prefer the 'Summary' or the 'Raw Strings'?",
+      "input_type": "Binary_Pulse_followed_by_Depth_Slider"
+    },
+    {
+      "id": 3,
+      "theme": "Justice vs. Mercy",
+      "prompt": "An error has occurred in the supply chain. Is the priority 'Correction' or 'Education'?",
+      "input_type": "3D_Range_Slider"
+    }
+  ]
+}
