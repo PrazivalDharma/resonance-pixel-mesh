@@ -5,3 +5,4 @@
 - **Sovereign Proof (ZKP):** Anonymous identity masking using unique geometric fractals.
 - **Decision Alerts:** Pulse notification system for **Key Decision Makers** when Tier III votes are active.
 - **Weight Visualization:** UI update to show user "Glow" based on 1.0–3.0 Resonance weight.
+- **Finalized Handshake Interface** for 'Inquisitive Individual' tracking and Sim-City UI.
