@@ -20,9 +20,6 @@ Invisible Data: Without the refractive laser key (for 5D storage), the data is m
 ⚖️ The Human Finality Pulse
 This repo contains the Consensus Protocol. Major shifts in the mesh require a human "Hands on the Wheel" pulse, allowing for deliberations that last days or years to ensure the 100% are heard.
 
-26/3/26 - "Added Sovereign Proof (ZKP). Users are now represented by unique geometric fractals. Identity is masked; Resonance is visible."
-feat(ui): add Three-Pillar weight visualization and ZKP Sovereign Mask
-
 📜 The Resonance Covenant(RPM)
 This repository is licensed under the AGPL-3.0 to ensure that the "Silk" of human connectivity remains transparent and free.
 Public Audit: Any entity hosting a Resonance Mesh must provide the source code of their implementation to its users.
