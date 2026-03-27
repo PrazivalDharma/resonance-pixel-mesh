@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🎥 Resonance Mesh: Scenario Exporter (Journalist Tool)
 # Purpose: Exports 'Sim City' data into human-readable social media formats.
 
