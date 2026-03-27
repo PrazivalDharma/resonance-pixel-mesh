@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🌐 Resonance Mesh: The Definition Gate
 # Allows the user to transform 'Stray Pixels' into 'Integrated Truth'.
 
